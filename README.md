@@ -1,7 +1,7 @@
 # TUGAS_APBO_SI_DAYCARE
 ---
-## Nama  : AKHMAD RIZALDY
-## NPM   : 4522210050
+## Nama  : RAIHAN ALFISA SAUGI 
+## NPM   : 4522210037
 ---
 ### Aktor yang terlibat
 * Orang Tua/Wali
